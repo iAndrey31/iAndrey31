@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre Mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas** (9no ciclo).
+- 🎓 Estudiante de **Ingeniería de Sistemas** (10mo ciclo).
 - 📊 Apasionado por el **Análisis de Datos** y la automatización de procesos.
 - 💼 Enfocado en **Data Analytics**.
 - 🇵🇪 Lima, Perú.
